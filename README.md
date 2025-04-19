@@ -23,8 +23,6 @@ npm install pstryk-js axios
 yarn add pstryk-js axios
 ```
 
-````
-
 ### Locally (for development or specific use cases)
 
 Clone the repository and install dependencies:
@@ -241,4 +239,7 @@ fetchProsumerPricing();
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-````
+
+```
+
+```
