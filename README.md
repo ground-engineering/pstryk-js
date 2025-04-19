@@ -1,4 +1,3 @@
-````markdown
 # pstryk-js
 
 [![NPM Version](https://img.shields.io/npm/v/pstryk-js.svg)](https://www.npmjs.com/package/pstryk-js)
@@ -23,6 +22,7 @@ npm install pstryk-js axios
 # or
 yarn add pstryk-js axios
 ```
+
 ````
 
 ### Locally (for development or specific use cases)
@@ -241,3 +241,4 @@ fetchProsumerPricing();
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+````
